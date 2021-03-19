@@ -1,4 +1,4 @@
-package farias.thiago.estudospring;
+package farias.thiago.estudospring.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
